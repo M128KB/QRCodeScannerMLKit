@@ -4,6 +4,6 @@
 
 # Google ML-Kit QRCode Scanner
 
-This is a simple Android application written in Kotlin that uses the CameraX library to access the device's camera and the ML Kit Barcode Scanning API to scan QR codes. The main activity of the application sets up the camera preview and starts the barcode scanning process. The scanned QR codes are then displayed as a toast message.
+This is a simple Android application written in Kotlin that uses the CameraX library to access the device's camera and the ML Kit Barcode Scanning API to scan QR codes. The main activity of the application sets up the camera preview and starts the barcode scanning process. The scanned QR codes are then displayed as a **toast message**.
 
 The Implementation does not cover all features.
